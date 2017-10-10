@@ -1,0 +1,10 @@
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\bin\Debug\Project SoftwareOntwikkeling.exe.config
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\bin\Debug\Project SoftwareOntwikkeling.exe
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\bin\Debug\Project SoftwareOntwikkeling.pdb
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\obj\Debug\Project SoftwareOntwikkeling.csprojResolveAssemblyReference.cache
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\obj\Debug\Project_SoftwareOntwikkeling.Form1.resources
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\obj\Debug\Project_SoftwareOntwikkeling.Properties.Resources.resources
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\obj\Debug\Project SoftwareOntwikkeling.csproj.GenerateResource.Cache
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\obj\Debug\Project SoftwareOntwikkeling.csproj.CoreCompileInputs.cache
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\obj\Debug\Project SoftwareOntwikkeling.exe
+D:\Visual Studio Programmas\Project Software Ontwikkeling\Project SoftwareOntwikkeling\Project SoftwareOntwikkeling\obj\Debug\Project SoftwareOntwikkeling.pdb
